@@ -21,6 +21,8 @@ weight: 10
 3. [Письмо №3](/posts/keonne-letter-3)
 4. [Письмо №4](/posts/keonne-letter-4)
 5. [Письмо №5](/posts/keonne-letter-5)
+6. [Письмо №6](/posts/keonne-letter-6)
+7. [Письмо №7](/posts/keonne-letter-7)
 {{< /details >}}
 
 {{< hint info >}}
@@ -138,23 +140,12 @@ weight: 10
 
 *С уважением, Кеонн*
 
----
-
-**_Написать Кеонну:_**
-
-_Keonne Rodriguez  
-11404-511  
-FPC Morgantown  
-FEDERAL PRISON CAMP  
-P.O. BOX 1000  
-MORGANTOWN, WV 26507_
-
-_**Правила отправки**: только письма, не более 3 страниц. Посылки не принимаются. Книги, журналы и газеты — только напрямую от издателя или через интернет-магазин (например, Amazon). Обязательно укажите полный обратный адрес и имя отправителя._
-
 {{< details "Оглавление" "..." >}}
 1. [Письмо №1](/posts/keonne-letter-1)
 2. [Письмо №2](/posts/keonne-letter-2)
 3. [Письмо №3](/posts/keonne-letter-3)
 4. [Письмо №4](/posts/keonne-letter-4)
 5. [Письмо №5](/posts/keonne-letter-5)
+6. [Письмо №6](/posts/keonne-letter-6)
+7. [Письмо №7](/posts/keonne-letter-7)
 {{< /details >}}
